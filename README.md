@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/facebook/jest) 
+
 <p>
   <a href="http://badge.fury.io/js/jest"><img src="https://badge.fury.io/js/jest.svg" alt="npm version"></a>
   <a href="https://twitter.com/intent/follow?screen_name=fbjest"><img align="right" src="https://img.shields.io/twitter/follow/fbjest.svg?style=social&label=Follow%20@fbjest" alt="Follow on Twitter"></a>
